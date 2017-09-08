@@ -1,0 +1,11 @@
+{
+    "name": "youngpadawan/surt",
+    "description": "Simple PHP docs generator",
+    "authors": [
+        {
+            "name": "Young Padawan",
+            "email": "youngpadawan.85@gmail.com"
+        }
+    ],
+    "require": {}
+}
